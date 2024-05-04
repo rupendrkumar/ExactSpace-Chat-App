@@ -7,3 +7,6 @@
 4. To send emojis functionality is present in it.
 5. Added mentions(@) feature. On clikcing '@' shows the list of users in the user list and sends message with that user mention.
 
+## Preview available at following netlify deploy link
+[Chat app](https://66361f8dde3491e1d9d87f2d--exact-space-chatt-app.netlify.app/)
+
