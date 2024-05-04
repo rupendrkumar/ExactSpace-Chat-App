@@ -3,7 +3,7 @@
 1. On clicking send button, shows the chat message above the textbox in chat area.
 2. For each message randomly assigns a username from the below user list.
    const user_list = ["Alan", "Bob", "Carol", "Dean", "Elin"]
-3. For each message, adds a like button at the right end of the chat message, which on click increasea the count. Displays the count next to the like button.
+3. For each message, adds a like button at the right end of the chat message, which on click increases the count, Displays the count next to the like button.
 4. To send emojis functionality is present in it.
 5. Added mentions(@) feature. On clikcing '@' shows the list of users in the user list and sends message with that user mention.
 
